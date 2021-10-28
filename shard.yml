@@ -1,0 +1,13 @@
+name: urlfmt
+version: 0.1.0
+
+authors:
+  - Paul M Lambert <plambert@plambert.net>
+
+targets:
+  urlfmt:
+    main: src/urlfmt.cr
+
+crystal: 1.2.0
+
+license: MIT
